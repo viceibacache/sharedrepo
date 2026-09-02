@@ -1,0 +1,7 @@
+[run]
+branch = True
+include = src/reservation.py
+
+[report]
+show_missing = True
+skip_empty = True
